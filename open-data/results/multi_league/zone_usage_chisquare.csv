@@ -1,0 +1,24 @@
+league,team,chi2,p,sig,n_actions,zones_tested
+FA WSL 2018-19,Arsenal WFC,1543.59,0.0,***,23681,18
+FA WSL 2018-19,Birmingham City WFC,374.83,0.0,***,21499,18
+FA WSL 2018-19,Brighton & Hove Albion WFC,406.34,0.0,***,15102,18
+FA WSL 2018-19,Bristol City WFC,495.09,0.0,***,13690,18
+FA WSL 2018-19,Chelsea FCW,1510.52,0.0,***,23293,18
+FA WSL 2018-19,Everton LFC,250.68,0.0,***,16012,18
+FA WSL 2018-19,Liverpool WFC,311.83,0.0,***,14418,18
+FA WSL 2018-19,Manchester City WFC,703.09,0.0,***,25659,18
+FA WSL 2018-19,Reading WFC,306.65,0.0,***,19774,18
+FA WSL 2018-19,West Ham United LFC,222.04,0.0,***,17594,18
+FA WSL 2018-19,Yeovil Town LFC,574.93,0.0,***,11145,18
+FA WSL 2020-21,Arsenal WFC,534.78,0.0,***,28166,18
+FA WSL 2020-21,Aston Villa,530.77,0.0,***,16308,18
+FA WSL 2020-21,Birmingham City WFC,900.08,0.0,***,13944,18
+FA WSL 2020-21,Brighton & Hove Albion WFC,209.96,0.0,***,17281,18
+FA WSL 2020-21,Bristol City WFC,250.38,0.0,***,14387,18
+FA WSL 2020-21,Chelsea FCW,1477.41,0.0,***,25656,18
+FA WSL 2020-21,Everton LFC,322.96,0.0,***,22516,18
+FA WSL 2020-21,Manchester City WFC,1441.03,0.0,***,28875,18
+FA WSL 2020-21,Manchester United,647.93,0.0,***,21750,18
+FA WSL 2020-21,Reading WFC,191.77,0.0,***,19798,18
+FA WSL 2020-21,Tottenham Hotspur Women,286.61,0.0,***,18548,18
+FA WSL 2020-21,West Ham United LFC,96.5,0.0,***,17458,18

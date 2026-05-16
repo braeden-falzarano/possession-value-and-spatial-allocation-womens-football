@@ -1,0 +1,4 @@
+stratum,k,silhouette,calinski_harabasz,total_distance
+Defensive,18,0.095263,1177.09,53016.63
+Midfield,18,0.102771,1306.99,53296.39
+Attacking,9,0.140261,825.65,21176.53

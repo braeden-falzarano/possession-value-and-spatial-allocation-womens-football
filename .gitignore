@@ -1,0 +1,27 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
+*.toc
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Presentation deck (not part of publication)
+*.pptx
+
+# StatsBomb open-data content — not our work; lives at https://github.com/statsbomb/open-data
+open-data/data/
+open-data/doc/
+open-data/img/
+open-data/README.md
+open-data/LICENSE.pdf
+open-data/Screenshot*.png

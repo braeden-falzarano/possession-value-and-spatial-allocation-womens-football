@@ -1,0 +1,11 @@
+metric,outcome,spearman_r,spearman_p,sig,n
+PVA,Goal Diff,0.7771,0.0,***,239
+xT,Goal Diff,0.7902,0.0,***,239
+xG,Goal Diff,0.7838,0.0,***,239
+Possession %,Goal Diff,0.5992,0.0,***,239
+Prog Passes,Goal Diff,0.6139,0.0,***,239
+Prog Carries,Goal Diff,0.5778,0.0,***,239
+Line Breaks,Goal Diff,0.611,0.0,***,239
+Pen Box Entries,Goal Diff,0.6872,0.0,***,239
+Pressure Actions,Goal Diff,0.4144,0.0,***,239
+Final 3rd Entries,Goal Diff,0.6206,0.0,***,239

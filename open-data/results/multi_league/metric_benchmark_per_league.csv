@@ -1,0 +1,41 @@
+league,metric,metric_col,outcome,outcome_col,n,spearman_r,spearman_p,sig
+FA WSL 2018-19,PVA/Game,pva_per_game,Goals/Game,goals_per_game,11,0.9182,0.0001,***
+FA WSL 2018-19,PVA/Game,pva_per_game,GD/Game,goal_diff_per_game,11,0.9066,0.0001,***
+FA WSL 2018-19,xT/Game,xt_per_game,Goals/Game,goals_per_game,11,0.9182,0.0001,***
+FA WSL 2018-19,xT/Game,xt_per_game,GD/Game,goal_diff_per_game,11,0.8884,0.0003,***
+FA WSL 2018-19,xG/Game,xg_per_game,Goals/Game,goals_per_game,11,0.9,0.0002,***
+FA WSL 2018-19,xG/Game,xg_per_game,GD/Game,goal_diff_per_game,11,0.8702,0.0005,***
+FA WSL 2018-19,Possession %,possession_pct,Goals/Game,goals_per_game,11,0.9,0.0002,***
+FA WSL 2018-19,Possession %,possession_pct,GD/Game,goal_diff_per_game,11,0.9066,0.0001,***
+FA WSL 2018-19,Prog Passes/Game,prog_passes_per_game,Goals/Game,goals_per_game,11,0.9,0.0002,***
+FA WSL 2018-19,Prog Passes/Game,prog_passes_per_game,GD/Game,goal_diff_per_game,11,0.9066,0.0001,***
+FA WSL 2018-19,Prog Carries/Game,prog_carries_per_game,Goals/Game,goals_per_game,11,0.8545,0.0008,***
+FA WSL 2018-19,Prog Carries/Game,prog_carries_per_game,GD/Game,goal_diff_per_game,11,0.8565,0.0008,***
+FA WSL 2018-19,Line Breaks/Game,line_breaks_per_game,Goals/Game,goals_per_game,11,0.8636,0.0006,***
+FA WSL 2018-19,Line Breaks/Game,line_breaks_per_game,GD/Game,goal_diff_per_game,11,0.8747,0.0004,***
+FA WSL 2018-19,Pen Box Entries/Game,pen_box_entries_per_game,Goals/Game,goals_per_game,11,0.9273,0.0,***
+FA WSL 2018-19,Pen Box Entries/Game,pen_box_entries_per_game,GD/Game,goal_diff_per_game,11,0.9112,0.0001,***
+FA WSL 2018-19,Pressure Actions/Game,pressure_actions_per_game,Goals/Game,goals_per_game,11,0.8364,0.0013,**
+FA WSL 2018-19,Pressure Actions/Game,pressure_actions_per_game,GD/Game,goal_diff_per_game,11,0.8428,0.0011,**
+FA WSL 2018-19,Final 3rd Entries/Game,ft_entries_per_game,Goals/Game,goals_per_game,11,0.9091,0.0001,***
+FA WSL 2018-19,Final 3rd Entries/Game,ft_entries_per_game,GD/Game,goal_diff_per_game,11,0.8975,0.0002,***
+FA WSL 2020-21,PVA/Game,pva_per_game,Goals/Game,goals_per_game,12,0.9632,0.0,***
+FA WSL 2020-21,PVA/Game,pva_per_game,GD/Game,goal_diff_per_game,12,0.965,0.0,***
+FA WSL 2020-21,xT/Game,xt_per_game,Goals/Game,goals_per_game,12,0.9807,0.0,***
+FA WSL 2020-21,xT/Game,xt_per_game,GD/Game,goal_diff_per_game,12,0.965,0.0,***
+FA WSL 2020-21,xG/Game,xg_per_game,Goals/Game,goals_per_game,12,0.9807,0.0,***
+FA WSL 2020-21,xG/Game,xg_per_game,GD/Game,goal_diff_per_game,12,0.965,0.0,***
+FA WSL 2020-21,Possession %,possession_pct,Goals/Game,goals_per_game,12,0.9282,0.0,***
+FA WSL 2020-21,Possession %,possession_pct,GD/Game,goal_diff_per_game,12,0.951,0.0,***
+FA WSL 2020-21,Prog Passes/Game,prog_passes_per_game,Goals/Game,goals_per_game,12,0.9282,0.0,***
+FA WSL 2020-21,Prog Passes/Game,prog_passes_per_game,GD/Game,goal_diff_per_game,12,0.9301,0.0,***
+FA WSL 2020-21,Prog Carries/Game,prog_carries_per_game,Goals/Game,goals_per_game,12,0.8722,0.0002,***
+FA WSL 2020-21,Prog Carries/Game,prog_carries_per_game,GD/Game,goal_diff_per_game,12,0.8881,0.0001,***
+FA WSL 2020-21,Line Breaks/Game,line_breaks_per_game,Goals/Game,goals_per_game,12,0.9282,0.0,***
+FA WSL 2020-21,Line Breaks/Game,line_breaks_per_game,GD/Game,goal_diff_per_game,12,0.9301,0.0,***
+FA WSL 2020-21,Pen Box Entries/Game,pen_box_entries_per_game,Goals/Game,goals_per_game,12,0.9352,0.0,***
+FA WSL 2020-21,Pen Box Entries/Game,pen_box_entries_per_game,GD/Game,goal_diff_per_game,12,0.9301,0.0,***
+FA WSL 2020-21,Pressure Actions/Game,pressure_actions_per_game,Goals/Game,goals_per_game,12,0.4904,0.1055,ns
+FA WSL 2020-21,Pressure Actions/Game,pressure_actions_per_game,GD/Game,goal_diff_per_game,12,0.5175,0.0849,ns
+FA WSL 2020-21,Final 3rd Entries/Game,ft_entries_per_game,Goals/Game,goals_per_game,12,0.9474,0.0,***
+FA WSL 2020-21,Final 3rd Entries/Game,ft_entries_per_game,GD/Game,goal_diff_per_game,12,0.9492,0.0,***

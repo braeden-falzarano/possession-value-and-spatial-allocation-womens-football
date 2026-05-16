@@ -1,0 +1,21 @@
+metric,outcome,spearman_r,spearman_p,sig,n
+PVA/Game,Goals/Game,0.9273,0.0,***,23
+PVA/Game,GD/Game,0.9157,0.0,***,23
+xT/Game,Goals/Game,0.9372,0.0,***,23
+xT/Game,GD/Game,0.9167,0.0,***,23
+xG/Game,Goals/Game,0.9333,0.0,***,23
+xG/Game,GD/Game,0.9128,0.0,***,23
+Possession %,Goals/Game,0.916,0.0,***,23
+Possession %,GD/Game,0.9251,0.0,***,23
+Prog Passes/Game,Goals/Game,0.9278,0.0,***,23
+Prog Passes/Game,GD/Game,0.9291,0.0,***,23
+Prog Carries/Game,Goals/Game,0.8562,0.0,***,23
+Prog Carries/Game,GD/Game,0.8772,0.0,***,23
+Line Breaks/Game,Goals/Game,0.9095,0.0,***,23
+Line Breaks/Game,GD/Game,0.9118,0.0,***,23
+Pen Box Entries/Game,Goals/Game,0.9209,0.0,***,23
+Pen Box Entries/Game,GD/Game,0.9113,0.0,***,23
+Pressure Actions/Game,Goals/Game,0.6639,0.0006,***,23
+Pressure Actions/Game,GD/Game,0.6627,0.0006,***,23
+Final 3rd Entries/Game,Goals/Game,0.933,0.0,***,23
+Final 3rd Entries/Game,GD/Game,0.9352,0.0,***,23

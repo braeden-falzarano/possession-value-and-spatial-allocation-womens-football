@@ -1,0 +1,4 @@
+stratum,prefix,method,n_possessions,n_unique_routes,k_anchor_0.25pct,k_anchor_0.5pct,k_anchor_1.0pct,k_range,selected_k,silhouette_winner_k,ch_winner_k,silhouette_before_filter,silhouette_after_filter,n_assigned,n_unassigned,unassigned_pct
+Defensive,D,kmedoids_fasterpam,13564,4721,61,26,9,18-18,18,18,18,0.095263,0.127746,10170,3394,25.02
+Midfield,M,kmedoids_fasterpam,13943,5106,54,24,9,18-18,18,18,18,0.102771,0.136217,10454,3489,25.02
+Attacking,A,kmedoids_fasterpam,5199,1891,45,28,15,9-9,9,9,9,0.140261,0.185468,3897,1302,25.04
