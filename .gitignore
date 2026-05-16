@@ -18,6 +18,9 @@ __pycache__/
 # Presentation deck (not part of publication)
 *.pptx
 
+# Paper source — keep locally, do not publish (PDF is the published artifact)
+bfalzarano_practicum26.tex
+
 # StatsBomb open-data content — not our work; lives at https://github.com/statsbomb/open-data
 open-data/data/
 open-data/doc/
